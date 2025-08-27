@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-nettekoven)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandernettekoven325@gmail.com)
-[![Phone](https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+19233398976)
+[![Phone](https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+19292339976)
 
 ---
 
@@ -69,146 +69,6 @@ I'm a **Senior Data Engineer** with 12+ years of experience designing scalable d
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-
-</div>
-
----
-
-## 💼 Professional Journey
-
-<details>
-<summary><b>🔧 Senior Data Engineer @ Dutech, Austin, TX (Dec 2021 - Jun 2025)</b></summary>
-
-```yaml
-Role: Lead Data Platform Engineering & ETL/ELT Architecture
-Key Projects:
-  - HRIS Data Integration: Consolidated payroll & engagement data across platforms
-  - Real-time Streaming: Kafka & Spark pipelines for billions of gaming transactions
-  - Executive Dashboards: Tableau/Power BI for hiring funnels & workforce analytics
-  - Legacy Migration: BigQuery & Databricks migration reducing costs by 30%
-```
-
-**Technical Achievements:**
-- 🏗️ **Designed ETL/ELT pipelines** with Airflow, dbt, and Snowflake for HRIS data consolidation
-- ⚡ **Built real-time streaming** with Kafka and Spark processing billions of gaming transactions
-- 📊 **Developed executive dashboards** tracking hiring funnels, diversity metrics, and performance
-- 🔍 **Implemented data governance** ensuring secure workforce data handling and GDPR compliance
-- 🚀 **Created self-serve analytics tools** reducing ad-hoc reporting by 40%
-- 📈 **Established fraud detection pipelines** preventing financial losses and improving platform integrity
-
-</details>
-
-<details>
-<summary><b>🤖 Senior ML & Data Engineer @ Google, Austin, TX (Mar 2020 - Oct 2021)</b></summary>
-
-```yaml
-Role: ML Pipeline Engineering for Google Ads Optimization
-Key Projects:
-  - Real-time Feature Store: 40% faster model delivery for ad-serving systems
-  - Distributed Training: TensorFlow Extended (TFX) & Kubeflow on TPUs
-  - Monitoring Systems: Drift detection across diverse ad markets & geographies
-  - TPU Optimization: 30% training time reduction, $1M annual cost savings
-```
-
-**Technical Achievements:**
-- 🚀 **Engineered ML pipelines** for Google Ads optimization using TensorFlow Extended (TFX)
-- ⚡ **Built real-time feature store** capturing clickstream, keyword, and campaign data
-- 📊 **Designed low-latency Dataflow and BigQuery pipelines** for ad-serving models
-- 🔍 **Implemented monitoring and drift detection** safeguarding accuracy across markets
-- 💰 **Optimized distributed TPU training** cutting costs by $1M annually
-- 🧪 **Developed A/B testing frameworks** enabling safe rollouts of ML models
-
-</details>
-
-<details>
-<summary><b>📊 Senior Data Scientist @ BigCommerce, Austin, TX (Dec 2018 - Dec 2019)</b></summary>
-
-```yaml
-Role: Advanced Analytics & Predictive Modeling
-Key Projects:
-  - Recommendation Engine: 10% increase in average order value
-  - Churn Prediction: Gradient boosting models saving millions in recurring revenue
-  - Customer Segmentation: Clustering methods improving engagement rates
-  - Model Training Optimization: 40% faster experimentation cycles
-```
-
-**Technical Achievements:**
-- 🤖 **Built recommendation algorithms** for upsell and cross-sell strategies
-- 📈 **Developed churn prediction models** using gradient boosting and logistic regression
-- 🔍 **Created fraud detection systems** with anomaly detection (18% false positive reduction)
-- 📊 **Optimized training pipelines** in Python and Spark, accelerating model delivery
-- 🎯 **Presented executive-level dashboards** linking predictive insights to business outcomes
-
-</details>
-
-<details>
-<summary><b>🏥 Data Analyst @ Nomi Health, Austin, TX (Jan 2015 - Oct 2018)</b></summary>
-
-```yaml
-Role: Healthcare Data Analytics & Pipeline Development
-Key Projects:
-  - Claims Processing: SQL pipelines improving data quality & operational accuracy
-  - Interactive Dashboards: Tableau/Power BI for provider performance monitoring
-  - Cost Analysis: $2M+ savings through claims data anomaly detection
-  - AWS Migration: Redshift implementation for large-scale analytics
-```
-
-**Healthcare Impact:**
-- 💊 **Designed SQL reporting pipelines** for claims, billing, and patient records
-- 🏥 **Built interactive dashboards** monitoring provider performance and healthcare KPIs
-- 📋 **Automated recurring workflows** in Python (pandas, NumPy) - 60% faster cycles
-- ☁️ **Supported AWS Redshift migration** enabling large-scale healthcare analytics
-- 🔍 **Applied NLP methods** for clinical notes analysis and treatment effectiveness
-
-</details>
-
-<details>
-<summary><b>⚙️ Junior Backend Developer @ SailPoint Technologies, Austin, TX (Nov 2013 - Oct 2014)</b></summary>
-
-```yaml
-Role: Database Engineering & Backend Development
-Key Projects:
-  - Identity Management: Relational schemas for access management systems
-  - Database Optimization: Query performance improvements (~25% faster)
-  - Data Migration: Oracle to PostgreSQL with zero data loss
-  - Process Documentation: Data validation checks and documentation standards
-```
-
-**Technical Foundation:**
-- 🗄️ **Designed relational schemas** for identity and access management systems
-- ⚡ **Optimized SQL queries and stored procedures** improving performance by ~25%
-- 🔄 **Assisted in database migration** from Oracle to PostgreSQL with <2 hours downtime
-- 📊 **Integrated backend modules** with database layer for data consistency
-- 📋 **Introduced data validation checks** reducing recurring reporting errors by 15%
-
-</details>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alex-nettekoven&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-nettekoven&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alex-nettekoven&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| 🎓 Degree | 🏫 Institution | 📅 Year |
-|-----------|----------------|----------|
-| **Bachelor's Degree, Computer Science** | The University of Texas - Austin | 2009 - 2013 |
 
 </div>
 
@@ -309,11 +169,11 @@ I'm passionate about **Data Engineering**, **Analytics**, and building **scalabl
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-nettekoven)
 [![Email](https://img.shields.io/badge/-Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandernettekoven325@gmail.com)
-[![Phone](https://img.shields.io/badge/-Call%20Me-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+19233398976)
+[![Phone](https://img.shields.io/badge/-Call%20Me-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+19292339976)
 [![GitHub](https://img.shields.io/badge/-Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alex-nettekoven)
 
 **📍 Location:** Austin, TX  
-**📞 Phone:** +1 (923) 339-8976  
+**📞 Phone:** +1 (929) 233-9976  
 **✉️ Email:** alexandernettekoven325@gmail.com
 
 ### 🌟 What I'm Currently Excited About
@@ -324,8 +184,6 @@ I'm passionate about **Data Engineering**, **Analytics**, and building **scalabl
 - 🌐 **Data mesh** and decentralized data platforms
 
 ---
-
-<img src="https://komarev.com/ghpvc/?username=alex-nettekoven&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
 *"Data is the new oil, but data engineering is the refinery that makes it valuable."*
 
